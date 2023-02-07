@@ -1,0 +1,1 @@
+Write a Python program that iterates over an enum class and displays each member and their value.

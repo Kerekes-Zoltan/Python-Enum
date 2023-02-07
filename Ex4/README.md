@@ -1,0 +1,1 @@
+Write a Python program to get all values from an enum class.
